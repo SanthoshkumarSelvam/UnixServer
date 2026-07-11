@@ -1,1 +1,2 @@
  Welcome to linux server 
+it is command based
